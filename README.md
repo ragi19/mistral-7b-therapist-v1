@@ -22,10 +22,7 @@ Key features:
 - **Metrics**: Final train loss of 0.221 and eval loss of 1.297.
 
 ### Model Sources
-- **Repository**: [GitHub Repository](https://github.com/your-repo-link)
-- **Paper [optional]**: [Link to Paper if Available]
-- **Demo [optional]**: [Interactive Demo Link]
-
+- **Repository**: [GitHub Repository]([[https://github.com/your-repo-link](https://github.com/ragi19/mistral-7b-therapist-v1/import)]))
 ---
 
 ## Uses
