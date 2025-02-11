@@ -1,4 +1,13 @@
-
+---
+library_name: transformers
+tags:
+  - mental-health
+  - counseling
+  - Mistral-7B
+  - LoRA
+  - quantization
+  - PEFT
+---
 # Model Card for `mistral-7b-therapist-v1`
 
 ## Model Details
