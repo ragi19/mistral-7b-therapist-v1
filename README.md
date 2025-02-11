@@ -1,16 +1,3 @@
----
-library_name: transformers
-license: apache-2.0
-datasets:
-- Amod/mental_health_counseling_conversations
-language:
-- en
-base_model:
-- mistralai/Mistral-7B-Instruct-v0.3
----
-Here’s the completed model card based on the provided workflow overview:
-
----
 
 **library_name**: transformers  
 **tags**: [mental-health, counseling, Mistral-7B, LoRA, quantization, PEFT]
